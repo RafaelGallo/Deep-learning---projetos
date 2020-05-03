@@ -9,6 +9,6 @@ Esse repositório e voltado para os projetos inteligencia artificial redes neura
 5º Função Linear
 6º Função de softmax
 
-[Neural](https://github.com/RafaelGallo/Redes-neurais-artificiais-/blob/master/001.gif)
+![I.A - inteligencia artificial](https://github.com/RafaelGallo/Redes-neurais-artificiais-/blob/master/001.gif)
 
 # Em desenvolvimento projeto
